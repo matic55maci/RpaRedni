@@ -11,6 +11,7 @@ namespace TestnaKonzola2
         static void Main(string[] args)
         {
             //to je drugi test
+            //to je sprememba
         }
     }
 }
